@@ -1,4 +1,4 @@
-## [Исследование базы данных издательства](SQL-final.ipynb):
+## [Исследование базы данных издательства](https://nbviewer.jupyter.org/github/seamus-88/training/blob/main/SQL_final/SQL-final.ipynb):
 ### Задача
 Подключиться к базе данных книг и исследовать её
 ### Стек
