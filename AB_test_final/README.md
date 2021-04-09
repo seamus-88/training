@@ -1,4 +1,4 @@
-## [A/B тестирование](AB_test_final.ipynb):
+## [A/B тестирование](https://nbviewer.jupyter.org/github/seamus-88/training/blob/main/AB_test_final/AB_test_final.ipynb):
 ### Задача
 Исследовать эффективность внедрения новой рекомендательной системы
 ### Стек
