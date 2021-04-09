@@ -1,4 +1,4 @@
-## [Учебные чаты Яндекс.Практикума](chats_analysis.ipynb):
+## [Учебные чаты Яндекс.Практикума](https://nbviewer.jupyter.org/github/seamus-88/training/blob/main/chats_analysis/chats_analysis.ipynb):
 ### Задача
 Проанализировать учебные чаты за всё время обучения в Яндекс.Практикуме
 ### Стек
